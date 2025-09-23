@@ -40,5 +40,5 @@ A RESTful API for a blogging platform built with **Node.js** and **Express**. Th
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/blog-api.git
+git clone https://github.com/Mathefagbe/NODE-JS-BLOG-API.git
 cd blog-api
